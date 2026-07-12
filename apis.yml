@@ -28,6 +28,8 @@ description: >-
   Stephen Ross also owns a majority stake in Equinox Holdings (Equinox fitness clubs,
   Equinox Hotels, SoulCycle, Blink Fitness) and the Miami Dolphins / Hard Rock Stadium.
 common:
+  - type: DomainSecurity
+    url: security/related-companies-domain-security.yml
   - type: Website
     url: https://www.related.com/
   - type: About
