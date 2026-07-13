@@ -2,13 +2,14 @@
   "repo": "related-companies",
   "feeds": [
     {
-      "source": "https://www.related.com/blog",
-      "feed_url": "",
-      "saved": 1,
-      "method": "agent-scrape"
+      "source": "https://www.related.com/about-us",
+      "feed_url": "https://www.related.com/about-us",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
   "post_count": 1,
-  "fetched": "2026-06-27T13:04:52Z",
-  "agent_pulled": "2026-06-27"
+  "fetched": "2026-07-11T11:50:51Z",
+  "agent_pulled": "2026-07-04"
 }
