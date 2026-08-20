@@ -3,6 +3,16 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/related-companies/refs/heads/main/apis.yml
 name: Related Companies
 tags:
+  - Real-Estate
+  - Real Estate Development
+  - Residential
+  - Affordable Housing
+  - Mixed-Use Development
+  - Commercial Real Estate
+  - Retail
+  - Hospitality
+  - Data Centers
+tags_raw:
   - Real Estate
   - Real Estate Development
   - Residential
